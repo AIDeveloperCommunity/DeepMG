@@ -1,2 +1,2 @@
 # DeepMG
-A GUI Framework for creating deep learning models in minutes
+A Web based GUI tool that helps creating deep learning models in minutes
